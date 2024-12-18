@@ -1,3 +1,4 @@
+// for practice myDate
 // let myDate = document.getElementById("start-btn");
 // let hours = myDate.getFullYear();
 // console.log(hours);
