@@ -1,12 +1,3 @@
-// for practice myDate
-// let myDate = document.getElementById("start-btn");
-// let hours = myDate.getFullYear();
-// console.log(hours);
-// console.log(myDate)
-// setInterval(()=>{
-//     let myDate = new Date();
-//     console.log(myDate)
-// },1000);
 let mSec = 0;
 let sec = 0;
 let min = 0;
@@ -46,4 +37,12 @@ function resetTimer() {
      min = 0;
     updateDisplay();
 }
-
+// for practice myDate
+// let myDate = document.getElementById("start-btn");
+// let hours = myDate.getFullYear();
+// console.log(hours);
+// console.log(myDate)
+// setInterval(()=>{
+//     let myDate = new Date();
+//     console.log(myDate)
+// },1000);
