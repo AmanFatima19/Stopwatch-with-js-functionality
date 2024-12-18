@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    font-size: 22px;
+}
+.btns{
+    display: flex;
+}
+#time{
+    padding: 10px 15px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+.btns button{
+    margin: 10px 5px;
+    padding: 8px 15px;
+}
+button:nth-child(1){
+    color: white;
+    background-color: rgb(31, 134, 31);
+    border: none;
+    border-radius: 5px;
+}
+button:nth-child(2){
+    color: white;
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+}
+button:nth-child(3){
+    color: white;
+    background-color: blue;
+    border: none;
+    border-radius: 5px;
+}
